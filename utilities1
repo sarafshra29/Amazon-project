@@ -1,0 +1,6 @@
+db congfig= psycopg2.connect(
+    host = 'localhost',
+    user = 'postgres',
+    database = 'name of data base',
+    password = 'Password',
+    port = 5432)
